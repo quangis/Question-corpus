@@ -1,7 +1,8 @@
 ## [SC] meta changes
 
-Author(s) => Authors
-Spatial questions => Question
+Changed column names:
+	Author(s) => Authors
+	Spatial questions => Question
 
 Removed question marks at the end of the sentences
 
