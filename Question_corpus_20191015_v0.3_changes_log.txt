@@ -1,0 +1,305 @@
+## [SC] meta changes
+
+Author(s) => Authors
+Spatial questions => Question
+
+Removed question marks at the end of the sentences
+
+============================================================
+
+## [SC] if clause was moved to the end
+
+Question 74: If we build a new theme park here, what will be the effect on traffic flows
+Rephrased to "What will be the effect on traffic flows if a new theme park is built here?".
+
+Question 94: If we locate a store here, what would be the impact on our closest existing store
+Rephrased to "What would be the impact on our closest existing store if a store is located to here?".
+
+============================================================
+
+## [SC] decomposed to multiple questions
+
+Question 137: What are directional trends in animal migration or grazing based on animal-tracking data
+Rephrased to
+	What are the directional trends in animal migration based on animal-tracking data?
+	What are the directional trends in animal grazing based on animal-tracking data?
+
+Question 152: What are the crime rates for this and last years in each police district of Texas
+Rephrased to
+	What are the crime rates in each police district of Texas for this year?
+	What are the crime rates in each police district of Texas for last year?
+
+Question 161: What is the density of elms and crape myrtles in Oleander
+Rephrased to
+	What is the density of elms in Oleander?
+	What is the density of crape myrtles in Oleander?
+
+Question 222: What is the impact of low and high population densities on the green infrastructure of Addis Ababa
+Rephrased to
+	What is the impact of low population density on the green infrastructure of Addis Ababa?
+	What is the impact of high population density on the green infrastructure of Addis Ababa?
+
+Question 234: What are the spatio-temporal dynamics of carbon emissions and carbon sinks in Guangdong Province, South China
+Rephrased to
+	What are the spatio-temporal dynamics of carbon emissions in Guangdong Province, South China?
+	What are the spatio-temporal dynamics of carbon sinks in Guangdong Province, South China?
+
+Question 251: What is the geographic accessibility to family physician and nurse practitioner services for seniors in Saskatchewan and Alberta, Canada
+Rephrased to
+	What is the geographic accessibility to family physician services for seniors in Saskatchewan and Alberta, Canada?
+	What is the geographic accessibility for seniors to nurse practitioner services in Saskatchewan and Alberta, Canada?
+
+Question 257: What is the spatial access to private and public hospitals in West Sichuan and East Sichuan, China
+Rephrased to
+	What is the spatial access to private hospitals in West Sichuan, China?
+	What is the spatial access to private hospitals in East Sichuan, China?
+	What is the spatial access to public hospitals in West Sichuan, China?
+	What is the spatial access to public hospitals in East Sichuan, China?
+
+Question 260: What is the spatial accessibility to public buses, trams, and trains from points of interests in Melbourne, Australia
+Rephrased to
+	What is the spatial accessibility to public buses from points of interests in Melbourne, Australia?
+	What is the spatial accessibility to public trams from points of interests in Melbourne, Australia?
+	What is the spatial accessibility to public trains from points of interests in Melbourne, Australia?
+
+Question 262: What are the impact of land use and population density on seasonal surface water quality in the Wen-Rui Tang River watershed in China
+Rephrased to
+	What is the impact of land use on seasonal surface water quality in the Wen-Rui Tang River watershed in China?
+	What is the impact of population density on seasonal surface water quality in the Wen-Rui Tang River watershed in China?
+
+Question 275: What are the changes in the environment, climate, land use and land cover types for Jiangsu Province of China between 1980-2012
+Rephrased to
+	What are the changes in the environment for Jiangsu Province of China between 1980-2012?
+	What are the changes in the climate for Jiangsu Province of China between 1980-2012?
+	What are the changes in the land use for Jiangsu Province of China between 1980-2012?
+	What are the changes in the land cover types for Jiangsu Province of China between 1980-2012?
+
+Question 302: What are the road distances and travel times from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric applied on Calgary road network in Canada
+Rephrased to
+	What are the road distances from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric?
+	What are the road travel times from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric?
+
+Question 305: What is the effect of household and neighborhood characteristics on children exposure to neighborhood poverty and affluence in US
+Rephrased to
+	What is the effect of household characteristics on children exposure to neighborhood poverty in US?
+	What is the effect of household characteristics on children exposure to neighborhood affluence in US?
+	What is the effect of neighborhood characteristics on children exposure to neighborhood poverty in US?
+	What is the effect of neighborhood characteristics on children exposure to neighborhood affluence in US?
+	
+Question 368: What are the temporal and spatial characteristics of land use change in Fujian Province, 1989-2006
+Rephrased to
+	What are the spatio-temporal characteristics of land use change in Fujian Province, 1989-2006?
+
+Question 400: What are the water and land use changes in Original-stream Zone of the Tarim River from 1994 to 2005
+Rephrased to
+	What are the land use changes in Original-stream Zone of the Tarim River from 1994 to 2005?
+	What are the changes in water resources in Original-stream Zone of the Tarim River from 1994 to 2005?
+
+Question 399: What are the interactions between population growth and changes in water and land resources in Original-stream Zone of the Tarim River from 1994 to 2005
+Rephrased to
+	What are the interactions between population growth and changes in water resources in Original-stream Zone of the Tarim River from 1994 to 2005?
+	What are the interactions between population growth and changes in land resources in Original-stream Zone of the Tarim River from 1994 to 2005?
+
+Question 395: What are the geographical patterns in the cultural industries in Los Angeles and New York City
+Rephrased to
+	What are the geographical patterns in the cultural industries in Los Angeles?
+	What are the geographical patterns in the cultural industries in New York City?
+	
+Question 157: What are the areas with high population density and concentration of rental units in Utrecht
+Rephrased to
+	What are the areas with high population density in Utrecht?
+	What are the areas with high concentration of rental units in Utrecht?
+	
+Question 330: What is the spatial distribution of respondentsâ€™ residences, health service units, and towns (district centers) in four districts of Chibuto, ChokwÃ¨, GuÃ­jÃ  and Mandlakaze
+Rephrased to
+	What is the spatial distribution of residences in the districts of Chibuto?
+	What is the spatial distribution of health service units in the districts of Chibuto?
+	What is the spatial distribution of towns in the districts of Chibuto?
+	What is the spatial distribution of residences in the districts of Mandlakaze?
+	What is the spatial distribution of health service units in the districts of Mandlakaze?
+	What is the spatial distribution of towns in the districts of Mandlakaze?
+	
+Question 151: What is the portion of rental, owner-occupied, and vacant houses relative to the Hispanic population in Tarrant County, Texas
+Rephrased to
+	What is the portion of rental houses for the Hispanic population in Tarrant County, Texas
+	What is the portion of owner-occupied houses for the Hispanic population in Tarrant County, Texas
+	What is the portion of vacant houses for the Hispanic population in Tarrant County, Texas
+	
+Question 436: What is the geographic accessibility for seniors to nurse practitioner services in Saskatchewan and Alberta, Canada
+Rephrased to
+	What is the geographic accessibility for seniors to nurse practitioner services in Alberta, Canada
+	What is the geographic accessibility for seniors to nurse practitioner services in Saskatchewan, Canada
+
+Question 408: What is the association between urban neighborhood socioeconomic markers and ambient air pollution in Vancouver and Seattle
+Rephrased to
+	What is the association between urban neighborhood socioeconomic markers and ambient air pollution in Vancouver
+	What is the association between urban neighborhood socioeconomic markers and ambient air pollution in Seattle
+
+Question 285: What is the effect of the distribution of deprived neighborhoods on mortality in Glasgow, Liverpool, and Manchester, England
+Rephrased to
+	What is the effect of the distribution of deprived neighborhoods on mortality in Glasgow, England
+	What is the effect of the distribution of deprived neighborhoods on mortality in Liverpool, England
+	What is the effect of the distribution of deprived neighborhoods on mortality in Manchester, England
+	
+Question 76: What will be the long-term consequences of farming and forestry for the conservation area in Zdarske Vrchy
+Rephrased to
+	What will be the long-term consequences of farming for the conservation area in Zdarske Vrchy
+	What will be the long-term consequences of forestry for the conservation area in Zdarske Vrchy
+	
+======================================================================
+
+## [SC] spatial extent was moved to the end of a question
+
+Question 147: What is the construction trend in the city of Oleander given construction years of dwelling units
+Rephrased to
+	What is the construction trend given construction years of dwelling units in the city of Oleander?
+
+Question 233: What is the urban population in China estimated from radiance corrected DMSP-OLS night-time light and land cover data
+Rephrased to
+	What is the urban population that is estimated from radiance corrected DMSP-OLS night-time light and land cover data in China
+
+Question 241: What is the population density in the Banten province, in Indonesia based on IndoPop data
+Rephrased to
+	What is the population density based on IndoPop data in the Banten province, in Indonesia
+
+Question 421: What is the accessibility of residential units in Utrecht city to public waste collectors for glass, paper, plastic, and textile
+Rephrased to
+	What is the accessibility of residential units to public waste collectors for glass, paper, plastic, and textile in Utrecht city
+	
+Question 74: What will be the effect on traffic flows if a new theme park is built at 
+Rephrased to 
+	What will be the effect on traffic flows if a new theme park is built near A27 in Utrecht?
+	
+Question 410: What is the impact of racial residential segregation on low birth weight in the Detroit area using optimized neighborhood boundary definitions
+Rephrased to 
+	What is the impact of racial residential segregation on low birth weight using optimized neighborhood boundary definitions in the Detroit area
+
+Question 382: What is the spatial pattern of various industries in Shanghai from spatial statistical perspectives
+Rephrased to 
+	What is the spatial pattern of various industries from spatial statistical perspectives in Shanghai
+	
+Question 261: What are the urban temporal patterns of individuals in big cities based upon geo-tagged photography
+Rephrased to 
+	What are the urban temporal patterns of individuals based upon geo-tagged photography in big cities
+
+=============================================================
+
+## [SC] added missing spatial extent
+
+Question 66: What is the best site for the new landfill
+Rephrased to "What is the best site for the new landfill in UK?"
+
+Question 105: What are the slope and aspect of the new ski piste
+Rephrased to 
+	"What is the slope of the new ski piste in the Happy Valley resort?"
+	"What is the aspect of the new ski piste in the Happy Valley resort?"
+
+Question 431: What are the directional trends in animal grazing based on animal-tracking data
+Rephrased to 
+	What are the directional trends in animal grazing based on animal-tracking data in the Netherlands
+	
+Question 137: What are the directional trends in animal migration based on animal-tracking data
+Rephrased to 
+	What are the directional trends in animal migration based on animal-tracking data in the Netherlands
+	
+Question 446: WWhat are the road travel times from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric
+Rephrased to 
+	What are the road travel times calculated with the Minkowski metric from residences of cardiac catheterization patients to Foothills Medical Center in New Mexico
+
+Question 302: What are the road distances from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric
+Rephrased to 
+	What are the road distances calculated with the Minkowski metric from residences of cardiac catheterization patients to Foothills Medical Center in New Mexico
+
+Question 357: What is the effect of scale when analysing accessibility and its effects on population change
+Rephrased to 
+	What is the effect of scale when analysing accessibility and its effects on population change in the Netherlands
+	
+Question 341: What are the relationships between population and urban growth by analyzing changes in urban form that are characterized by fractal dimensions
+Rephrased to 
+	What are the relationships between population and urban growth by analyzing changes in urban form that are characterized by fractal dimensions in urban areas
+
+Question 238: What is annual total carbon emission from the construction of built-up land
+Rephrased to 
+	What is annual total carbon emission from the construction of built-up land in the Netherlands
+
+Question 207: What are the areas with single-family residential properties that have decreased in value more than 3% since 2004
+Rephrased to 
+	What are the areas with single-family residential properties that have decreased in value more than 3% in the Netherlands since 2004
+	
+Question 205: What are traffic patterns at intersections based on readings of traffic-counting devices placed along a street
+Rephrased to 
+	What are traffic patterns at intersections based on readings of traffic-counting devices placed along a street in the Netherlands
+	
+Question 62: What is the pattern of public spending in areas where the majority of residents are African American
+Rephrased to 
+	What is the pattern of public spending in areas where the majority of residents are African American in Oleander
+
+Question 118: What is the estimated casualty from a tsunami given affected coastlines in high-resolution satellite imagery
+Rephrased to 
+	What is the estimated casualty from a tsunami given affected coastlines in high-resolution satellite imagery of Indonesia
+	
+Question 120: What are the locations of potential bus stops that maximize the overall population catchment area
+Rephrased to 
+	What are the locations of potential bus stops that maximize the overall population catchment area in Utrecht
+	
+Question 162: What is the density surface of rainfall based on measuring stations
+Rephrased to 
+	What is the density surface of rainfall based on measuring stations in the Netherlands
+	
+Question 167: What is the relationship between clusters of West Nile Virus and the locations of food and water sources
+Rephrased to 
+	What is the relationship between clusters of West Nile Virus and the locations of food and water sources in US
+	
+Question 170: What is the relationship between clusters of fire calls and population density
+Rephrased to 
+	What is the relationship between clusters of fire calls and population density in the Netherlands
+
+Question 184: What is the percentage of each land-use type inside the notification zone for zoning change
+Rephrased to
+	What is the percentage of each land-use type inside the notification zone for zoning change in the Netherlands
+	
+Question 185: What are the zones of strict drug enforcement around schools, playgrounds, and arcades
+Rephrased to
+	What are the zones of strict drug enforcement around schools in the Netherlands
+	What are the zones of strict drug enforcement around playgrounds in the Netherlands
+	What are the zones of strict drug enforcement around arcades in the Netherlands
+	
+Question 186: What is a quite zone around a hospital that should be enforced by police
+Rephrased to
+	What is a quite zone around a hospital that should be enforced by police in the Netherlands
+
+Question 377: What are the methods for modeling population
+Rephrashed:
+	What are the methods for population modeling in cities
+
+======================================================================
+
+## [SC] changing positions of verb-ing adjectives and objects
+
+Question 239: What are the sites suitable for metro stations in Karbala, Iraqi
+Rephrased to
+	What are the suitable sites for metro stations in Karbala, Iraqi?
+
+Question 245: What are the factors determining the area of land-use change in the urban area of Yogyakarta in Indonesia
+Rephrased to
+	What are the determining factors of the area of land-use change in the urban area of Yogyakarta in Indonesia?
+
+Question 246: What are the factors determining the location of land-use change in the urban area of Yogyakarta in Indonesia
+Rephrased to
+	What are the determining factors of the location of land-use change in the urban area of Yogyakarta in Indonesia?
+
+Question 249: What are the factors determining the potential for the occurrence of robberies in buses in Salvador, Brazil
+Rephrased to
+	What are the factors that determine the potential for the occurrence of robberies in buses in Salvador, Brazil?
+
+Question 276: What are the risk factors associated with physical access to health facilities among women of reproductive age in Dabat district, Ethiopia
+Rephrased to
+	What are the risk factors that are associated with physical access to health facilities among women of reproductive age in Dabat district, Ethiopia?
+
+======================================================================
+
+## [SC] syntax correction
+
+Question 174: What is acreage for each land-use type in a region of Oleander
+Rephrased to 
+	What is the acreage for each land-use type in a region of Oleander
